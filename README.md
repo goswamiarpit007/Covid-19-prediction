@@ -5,4 +5,4 @@ I compared the models of various regression techniques such as linear regression
 LIBRARIES USED-
 NUMPY,PANDAS,SCIKIT-LEARN,MATPLOTLIB.
 
-LINK TO THE DATASET- https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
+
